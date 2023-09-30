@@ -1,1 +1,14 @@
-Microservices: 
+Microservices(Multiple Stack) vs Monolithic application (One stack)
+
+Monolithic application => one big applicatiion which includes all modules together
+When demand arises we do either horizontal scaling or vertical scaling
+horizontal scaling =>increase same identical machines 
+vertical scaling => increase RAM power or adding servers on top of it
+
+The advantage of microservices is we can extend only particular services like search and payment when they are needed most that other services
+
+
+Uses:
+1)Team Dependencies
+2)Scalability
+3)
