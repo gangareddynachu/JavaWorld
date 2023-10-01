@@ -11,4 +11,3 @@ The advantage of microservices is we can extend only particular services like se
 Uses:
 1)Team Dependencies
 2)Scalability
-3)
